@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "124802654753",
+    "firebase_url": "https://simcoder-28aac.firebaseio.com",
+    "project_id": "simcoder-28aac",
+    "storage_bucket": "simcoder-28aac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124802654753:android:a43c3a886323ad73183960",
+        "android_client_info": {
+          "package_name": "com.EmAmbu.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124802654753-l5t1mbhl15gnccnoec7dil66e0m2ho6r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.EmAmbu.application",
+            "certificate_hash": "a7d9813820a6b51a3fcf6f259761b5f7feec144a"
+          }
+        },
+        {
+          "client_id": "124802654753-b4av9mf2598nrojd8rm1j2gfpmuacgqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKX89r9iAmgDmZtlj8S25T0dmfA5qu3z8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124802654753-b4av9mf2598nrojd8rm1j2gfpmuacgqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
